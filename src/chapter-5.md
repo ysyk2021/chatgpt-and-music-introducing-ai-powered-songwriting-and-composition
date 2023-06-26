@@ -6,7 +6,7 @@ In this chapter, we will explore ChatGPT, a state-of-the-art natural language pr
 What is ChatGPT?
 ----------------
 
-ChatGPT is a deep learning-based NLP tool developed by OpenAI, the same company behind GPT-3. It is based on a transformer architecture and is capable of generating human-like responses to text inputs. ChatGPT can be fine-tuned for specific tasks such as question-answering, summarization, or in our case, songwriting and composition.
+ChatGPT is a deep learning-based NLP tool developed by OpenAI, the same company behind GPT-3.5. It is based on a transformer architecture and is capable of generating human-like responses to text inputs. ChatGPT can be fine-tuned for specific tasks such as question-answering, summarization, or in our case, songwriting and composition.
 
 Features and Capabilities of ChatGPT
 ------------------------------------
