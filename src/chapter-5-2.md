@@ -3,11 +3,6 @@ Features and Capabilities of ChatGPT
 
 In this chapter, we will explore the features and capabilities of ChatGPT, an advanced natural language processing model that can generate human-like text with incredible accuracy.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an AI-powered language model developed by OpenAI. It uses deep learning techniques to analyze large amounts of text data and generate coherent and human-like text based on a given prompt or topic. It is trained on a diverse range of text data, making it capable of generating text in a variety of styles and formats.
-
 Features of ChatGPT
 -------------------
 

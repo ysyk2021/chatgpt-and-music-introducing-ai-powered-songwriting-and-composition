@@ -3,11 +3,6 @@ How ChatGPT can be used for AI-powered Songwriting and Composition
 
 In this chapter, we will explore how ChatGPT can be used for AI-powered songwriting and composition. We will cover the basics of ChatGPT and its potential applications in music production.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is a state-of-the-art language model developed by OpenAI. It uses deep learning techniques to generate human-like responses to text input. With its ability to understand context and generate coherent responses, ChatGPT has been used in various applications, including chatbots, language translation, and now, music composition.
-
 How ChatGPT can be used for Songwriting and Composition
 -------------------------------------------------------
 
