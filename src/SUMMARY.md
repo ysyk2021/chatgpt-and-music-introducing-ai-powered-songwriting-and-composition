@@ -27,6 +27,5 @@
 - [Chapter 6: Future of Music with ChatGPT](chapter-7.md)
   - [Potential advancements in music industry with ChatGPT](chapter-7-1.md)
   - [Emerging trends and challenges in music and ChatGPT](chapter-7-2.md)
-  - [Conclusion and future outlook](chapter-7-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)

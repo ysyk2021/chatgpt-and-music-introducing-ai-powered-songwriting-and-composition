@@ -1,5 +1,3 @@
-Different Types of Music Businesses
-========================================================================
 
 In this chapter, we will discuss the different types of music businesses that operate within the music industry.
 

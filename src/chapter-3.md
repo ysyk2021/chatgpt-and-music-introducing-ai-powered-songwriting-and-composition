@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Music Industry
-=======================================
 
 In this chapter, we will explore the challenges faced by musicians and composers in the music industry. We will discuss the various factors that affect the industry, the common challenges faced by musicians and composers, and the impact of these challenges on the creative process.
 

@@ -1,5 +1,3 @@
-How ChatGPT can be used for AI-powered Songwriting and Composition
-====================================================================================================
 
 In this chapter, we will explore how ChatGPT can be used for AI-powered songwriting and composition. We will cover the basics of ChatGPT and its potential applications in music production.
 

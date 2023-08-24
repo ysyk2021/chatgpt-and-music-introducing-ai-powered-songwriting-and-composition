@@ -1,4 +1,3 @@
-# Introduction
 
 Music composition has always been a highly creative process that requires a great deal of skill, talent, and inspiration. However, with the advancements in Artificial Intelligence (AI) technology, new possibilities are emerging for creating music in innovative and exciting ways.
 

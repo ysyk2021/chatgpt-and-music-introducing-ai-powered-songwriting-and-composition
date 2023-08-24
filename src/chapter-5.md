@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 In this chapter, we will explore ChatGPT, a state-of-the-art natural language processing (NLP) tool that can be used for AI-powered songwriting and composition in the music industry. We will discuss what ChatGPT is, its features and capabilities, and how it can be used for AI-powered songwriting and composition.
 

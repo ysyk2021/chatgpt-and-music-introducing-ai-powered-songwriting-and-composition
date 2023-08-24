@@ -1,5 +1,3 @@
-Benefits of using AI and chatbots for music industry
-==============================================================================================================
 
 In this chapter, we will explore the benefits of using AI and chatbots in the music industry for songwriting and composition. AI-powered tools like ChatGPT and chatbots have the potential to revolutionize the creative process by providing new opportunities for artists and enhancing the overall quality of music production.
 

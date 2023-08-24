@@ -1,5 +1,3 @@
-Factors Affecting Music Industry
-=========================================================================
 
 In this chapter, we will discuss the various factors that affect the music industry and contribute to the challenges faced by artists and producers.
 

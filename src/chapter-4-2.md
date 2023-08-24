@@ -1,5 +1,3 @@
-How AI and chatbots can improve songwriting and composition
-=====================================================================================================================
 
 In this chapter, we will explore the role of AI and chatbots in the music industry, and how they can improve songwriting and composition. AI-powered tools like ChatGPT have the potential to revolutionize the creative process by providing new opportunities for artists and enhancing the overall quality of music production.
 

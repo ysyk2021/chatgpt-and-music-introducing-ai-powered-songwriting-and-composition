@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Music Industry
-========================================================
 
 In this chapter, we will discuss the role of AI and chatbots in the music industry for songwriting and composition. We will provide an introduction to AI and chatbots, explore how they can improve the creative process, and discuss the benefits of using them in the music industry.
 

@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the potential of ChatGPT in AI-powered songwriting and composition in the music industry. We have discussed its features, capabilities, and applications, as well as case studies of musicians and composers who have successfully implemented ChatGPT in their creative process.
 

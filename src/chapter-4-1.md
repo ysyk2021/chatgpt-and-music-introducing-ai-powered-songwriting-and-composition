@@ -1,5 +1,3 @@
-Introduction to AI and chatbots
-=========================================================================================
 
 In this chapter, we will provide an introduction to AI and chatbots, two technologies that are increasingly being used in the music industry for songwriting and composition. AI-powered tools like ChatGPT and chatbots have the potential to revolutionize the creative process by providing new opportunities for artists and enhancing the overall quality of music production.
 

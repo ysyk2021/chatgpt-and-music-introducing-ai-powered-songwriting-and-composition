@@ -1,5 +1,3 @@
-The Role of ChatGPT in AI-Powered Songwriting and Composition
-===========================================================================
 
 In recent years, artificial intelligence (AI) has made significant strides in the music industry. AI-powered tools like ChatGPT have emerged as powerful tools for songwriting and composition. In this chapter, we will introduce the role of ChatGPT in AI-powered songwriting and composition.
 

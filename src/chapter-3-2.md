@@ -1,5 +1,3 @@
-Common Challenges Faced by Musicians and Composers
-===========================================================================================
 
 In this chapter, we will discuss the common challenges faced by musicians and composers in the music industry.
 

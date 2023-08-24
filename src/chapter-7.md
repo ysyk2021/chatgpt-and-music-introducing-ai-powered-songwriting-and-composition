@@ -1,5 +1,3 @@
-Chapter 6: Future of Music with ChatGPT
-=======================================
 
 In this chapter, we will discuss the future of music with ChatGPT. As AI-powered songwriting and composition continue to evolve, the potential for innovation and creativity in the music industry is limitless.
 

@@ -1,5 +1,3 @@
-Definition of Music Industry
-=================================================================
 
 In this chapter, we will discuss the basics of the music industry, starting with a definition of what the music industry is.
 

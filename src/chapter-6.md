@@ -1,5 +1,3 @@
-Chapter 5: Implementing ChatGPT in Music Industry
-=================================================
 
 In this chapter, we will explore the steps to implement ChatGPT in the music industry, best practices for using ChatGPT in songwriting and composition, and case studies of musicians and composers who have successfully implemented ChatGPT in their creative process.
 

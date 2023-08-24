@@ -1,5 +1,3 @@
-Impact of these challenges on creative process
-=======================================================================================
 
 In this chapter, we will explore some of the challenges faced by the music industry and how they impact the creative process of songwriting and composition.
 

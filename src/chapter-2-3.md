@@ -1,5 +1,3 @@
-Importance of Songwriting and Composition in Music
-=======================================================================================
 
 In this chapter, we will discuss the basics of the music industry and the importance of songwriting and composition.
 

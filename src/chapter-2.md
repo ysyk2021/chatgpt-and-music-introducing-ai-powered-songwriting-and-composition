@@ -1,5 +1,3 @@
-Chapter 1: Basics of Music Industry
-===================================
 
 In this chapter, we will discuss the basics of the music industry. We will define the music industry, explore the different types of music businesses, and highlight the importance of songwriting and composition in music.
 

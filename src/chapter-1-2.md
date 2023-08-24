@@ -1,5 +1,3 @@
-Explanation of Music Industry and Its Importance
-==============================================================
 
 The music industry is a vast and diverse field that encompasses various businesses involved in the creation, production, distribution, and promotion of music. From record labels to music streaming services, the music industry plays a crucial role in shaping our cultural landscape and providing entertainment and inspiration to millions of people worldwide.
 

@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT in Music Industry
-===============================================================================================
 
 In this chapter, we will discuss the steps to implement ChatGPT in the music industry. By following these steps, artists and producers can leverage the power of AI to enhance their songwriting and composition capabilities.
 
