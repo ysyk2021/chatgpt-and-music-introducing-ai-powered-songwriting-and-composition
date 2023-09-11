@@ -1,5 +1,4 @@
-Chapter 7: Impact of These Challenges on the Creative Process
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the impact that the challenges associated with AI-powered songwriting and ChatGPT can have on the creative process. Understanding these challenges and their implications is crucial for artists seeking to leverage AI technology effectively while preserving artistic integrity.
 

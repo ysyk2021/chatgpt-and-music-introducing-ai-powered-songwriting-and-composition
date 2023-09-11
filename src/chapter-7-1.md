@@ -1,5 +1,4 @@
-Chapter 5: Potential Advancements in the Music Industry with ChatGPT
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the potential advancements that ChatGPT can bring to the music industry. From personalized music recommendations to interactive live performances, we delve into how this AI technology can revolutionize various aspects of the industry.
 

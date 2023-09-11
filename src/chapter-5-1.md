@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we introduce ChatGPT, the AI-powered language model that revolutionizes songwriting and composition. We delve into the underlying technology, its capabilities, and its potential impact on the music industry.
 

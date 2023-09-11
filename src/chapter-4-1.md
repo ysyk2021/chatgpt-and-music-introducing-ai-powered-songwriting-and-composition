@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an introduction to AI (Artificial Intelligence) and chatbots in the context of songwriting and composition. We explore the fundamental concepts and functionalities of AI-powered technologies like ChatGPT that have revolutionized the music industry.
 

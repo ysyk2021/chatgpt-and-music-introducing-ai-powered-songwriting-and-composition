@@ -1,5 +1,4 @@
-Chapter 4: Common Challenges Faced by Musicians and Composers
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the common challenges that musicians and composers face in their creative endeavors. Understanding these challenges is crucial for leveraging AI-powered tools like ChatGPT effectively and finding innovative solutions to enhance the music creation process.
 

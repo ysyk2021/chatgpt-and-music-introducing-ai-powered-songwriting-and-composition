@@ -1,5 +1,4 @@
-Chapter 8: Factors Affecting the Music Industry
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine the various factors that impact the music industry in the context of AI-powered songwriting and composition. These factors shape the landscape within which musicians, composers, and AI technologies like ChatGPT operate and influence the industry's evolution.
 

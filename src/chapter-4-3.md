@@ -1,5 +1,4 @@
-Chapter 3: Benefits of Using AI and Chatbots for the Music Industry
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the numerous benefits that AI and chatbots bring to the music industry. From enhancing creativity to streamlining workflows, these technologies are transforming the way musicians, composers, and industry professionals engage with music production and composition.
 

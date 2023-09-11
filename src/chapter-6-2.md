@@ -1,5 +1,4 @@
-Chapter 5: Best Practices for Using ChatGPT in Songwriting and Composition
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore best practices for utilizing ChatGPT in the process of songwriting and composition. These guidelines will help musicians and creators optimize their use of AI technology to enhance their creative output.
 

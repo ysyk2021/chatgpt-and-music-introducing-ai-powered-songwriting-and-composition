@@ -1,5 +1,4 @@
-Chapter 6: Emerging Trends and Challenges in Music and ChatGPT
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the emerging trends and challenges that arise from the intersection of music and ChatGPT. As AI technology continues to evolve, it brings new opportunities and complexities to the music industry.
 

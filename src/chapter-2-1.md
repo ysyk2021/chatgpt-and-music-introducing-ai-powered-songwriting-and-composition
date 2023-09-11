@@ -1,5 +1,4 @@
-Chapter 1: Definition of the Music Industry
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide a comprehensive definition of the music industry. We will explore its scope, key components, and the various sectors that contribute to the vibrant and dynamic landscape of the music business.
 

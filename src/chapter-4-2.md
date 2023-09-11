@@ -1,5 +1,4 @@
-Chapter 5: How AI and Chatbots Can Improve Songwriting and Composition
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the ways in which AI and chatbots can enhance the process of songwriting and composition. By leveraging the power of artificial intelligence, musicians, composers, and industry professionals can unlock new creative possibilities and elevate their musical endeavors.
 

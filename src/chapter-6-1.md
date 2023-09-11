@@ -1,5 +1,4 @@
-Chapter 6: Steps to Implement ChatGPT in the Music Industry
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we outline the key steps involved in implementing ChatGPT and AI-powered technologies in the music industry. These steps will guide musicians, composers, and industry professionals in leveraging AI to enhance the songwriting and composition process.
 

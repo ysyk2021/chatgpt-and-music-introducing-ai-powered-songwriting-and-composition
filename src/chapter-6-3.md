@@ -1,5 +1,4 @@
-Chapter 4: Case Studies of Musicians and Composers Implementing ChatGPT in Their Creative Process
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore real-life case studies of musicians and composers who have successfully integrated ChatGPT into their creative processes. These examples illustrate how AI-powered technologies can enhance musical creativity and inspire innovative compositions.
 

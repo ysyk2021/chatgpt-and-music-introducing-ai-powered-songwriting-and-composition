@@ -1,5 +1,4 @@
-Chapter 3: Different Types of Music Businesses
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the various types of music businesses that contribute to the diverse and dynamic landscape of the music industry. From record labels to live event promoters, each type of music business plays a unique role in shaping the creation, distribution, promotion, and monetization of music.
 

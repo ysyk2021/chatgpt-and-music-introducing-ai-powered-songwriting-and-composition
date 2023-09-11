@@ -1,5 +1,4 @@
-Chapter 2: Importance of Songwriting and Composition in Music
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the significance of songwriting and composition in the world of music. We explore how these creative processes shape musical expression, evoke emotions, and connect artists with their audiences.
 
